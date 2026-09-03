@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       {/* <Login /> */}
       {/* <Register /> */}
-      {/* <LandingPage /> */}
+      <LandingPage />
       <LoanRiskPredictor />
 
     </div>
